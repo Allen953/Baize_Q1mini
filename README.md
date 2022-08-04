@@ -10,7 +10,7 @@
 
 ![实地测试](https://github.com/Allen953/Baize_QuadrupedRobot/blob/main/7.Photos%20%26%20Videos/Baize_QuadrupedRobot_Arduino.gif)
 
-![实物图](https://github.com/Allen953/Baize_QuadrupedRobot/blob/main/7.Photos%20%26%20Videos/Baize_QuadrupedRobot_Arduino.gif)
+![实物图](https://github.com/Allen953/Baize_QuadrupedRobot/blob/main/7.Photos%20%26%20Videos/IMG_20210719_104603.jpg)
 
 
 
